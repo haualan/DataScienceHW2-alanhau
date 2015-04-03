@@ -1,0 +1,8 @@
+# Databases
+dblp.xml
+dblp.json
+dblp_coauthorship.json
+
+#sample code
+DBLP2graph.py
+DBLP2json.py
